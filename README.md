@@ -7,7 +7,7 @@ The complete Synthetic RAW Image Dataset (~94.31GB) is available via link ：htt
 Extraction code：kfkg 
 
 
-## RAW-based Synthetic Dataset Overview
+# RAW-based Synthetic Dataset Overview
 
 ### Purpose and Necessity
 To assess the effectiveness and versatility of the proposed over-exposure correction model, and to facilitate efficient comparison between different methodologies, we identified a need for an extensive collection of RAW/sRGB images rendered with realistic over-exposure errors and corresponding accurately exposed ground truth images. As highlighted in Section 2, existing datasets lack the diversity and scale required to robustly support over-exposure correction research based on RAW data. This gap in the research landscape necessitated the creation of a new RAW-based synthetic dataset.
